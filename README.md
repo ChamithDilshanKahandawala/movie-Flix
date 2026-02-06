@@ -88,7 +88,7 @@ npx expo start
 - 🤖 **Android Emulator**
 - 🍎 **iOS Simulator**
 
--
+
 
 ### 🖥 Backend Setup
 
@@ -100,7 +100,7 @@ npm start
 
 ---
 
-### 🔐 Environment Variables
+## 🔐 Environment Variables
 
 #### Frontend (.env)
 
@@ -122,7 +122,7 @@ PORT=5001
 
 ---
 
-### 🛣 Roadmap
+## 🛣 Roadmap
 
 
 ⭐ Favorites screen
