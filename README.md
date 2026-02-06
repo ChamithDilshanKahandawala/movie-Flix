@@ -26,9 +26,10 @@
   <img src="./assets/screen2.png" width="260" />
 </p>
 
-> _Add screenshots or a short demo GIF to boost engagement ⭐_
+![WhatsApp Image 2026-02-07 at 01 11 05](https://github.com/user-attachments/assets/0787c41d-e88e-4ea5-b084-b8ae11020f6f)
+![WhatsApp Image 2026-02-07 at 01 11 05](https://github.com/user-attachments/assets/af8bc6c4-8e69-41d3-b281-97a12f180428)
 
----
+
 
 ## ✨ About
 
