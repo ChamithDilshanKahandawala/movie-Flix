@@ -105,14 +105,14 @@ npm start
 
 # Frontend (.env)
 
-```bash
+```env
 EXPO_PUBLIC_MOVIE_API_KEY=My_tmdb_api_key
 EXPO_PUBLIC_BACKEND_URL=http://localhost:5001
 ```
 
 # Backend (.env)
 
-```bash
+```env
 MONGO_URI=my_mongodb_connection_string
 PORT=5001
 ```
@@ -142,5 +142,8 @@ PORT=5001
 🎥 TMDB API — Movie data & images
 
 🚀 Expo — Amazing developer experience
+
+
+<p align="center"> <b>If you like this project, consider giving it a ⭐</b> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" /> </p>
 
 
