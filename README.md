@@ -88,7 +88,7 @@ npx expo start
 - 🤖 **Android Emulator**
 - 🍎 **iOS Simulator**
 
-----
+-
 
 ### 🖥 Backend Setup
 
