@@ -1,122 +1,73 @@
-🎬 Movie Flix
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=🎬%20Movie%20Flix&fontSize=48&fontColor=ffffff&fontAlignY=40" />
+</p>
 
-A sleek Expo-powered movie explorer with TMDB discovery, smart search, and MongoDB-driven trending history.
+<p align="center">
+  <b>A sleek Expo movie explorer with smart discovery & real-time trending insights</b>
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/version-1.0-blue.svg" /> <img src="https://img.shields.io/badge/platform-Expo%20%7C%20React%20Native-black.svg" /> <img src="https://img.shields.io/badge/license-MIT-green.svg" /> </p> <p align="center"> 🚀 Discover • 🔍 Search Smart • 📈 See What’s Trending </p>
-📱 Preview
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/platform-Expo%20%7C%20React%20Native-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" />
+</p>
 
-Add screenshots or a demo GIF here
+<p align="center">
+  🔍 Discover &nbsp;•&nbsp; 🎥 Explore &nbsp;•&nbsp; 📈 Trending Movies
+</p>
 
-![Movie Flix Preview](./assets/preview.gif)
+---
 
+## 📱 Preview
 
-(Tip: A short GIF massively boosts stars ⭐)
+<p align="center">
+  <img src="./assets/preview.gif" width="260" />
+  <img src="./assets/screen1.png" width="260" />
+  <img src="./assets/screen2.png" width="260" />
+</p>
 
-📚 Table of Contents
+> _Add screenshots or a short demo GIF to boost engagement ⭐_
 
-About
+---
 
-Features
+## ✨ About
 
-Tech Stack
+**Movie Flix** is a modern mobile movie hub built with **Expo** and **React Native**.  
+It allows users to search, discover, and explore trending movies based on **real user activity**.
 
-Getting Started
+Built with performance, clean UI, and scalability in mind.
 
-Environment Variables
+---
 
-API Routes
+## 🚀 Features
 
-Roadmap
+- 🎬 Browse latest & popular movies  
+- 🔎 Fast search with debounce  
+- 📈 Trending list based on real user searches  
+- 📄 Detailed movie view  
+- 🧭 Smooth tab navigation  
+- 🎨 Minimal & modern UI  
 
-License
+---
 
-Credits
+## 🧰 Tech Stack
 
-✨ About
+### 📱 Frontend
+- Expo + React Native  
+- Expo Router  
+- NativeWind (Tailwind CSS for RN)
 
-Movie Flix is a modern mobile movie hub built with Expo and React Native.
-It allows users to search, discover, and explore trending movies—powered by real user search history stored in MongoDB.
+### 🖥 Backend
+- Node.js + Express  
+- MongoDB Atlas  
+- TMDB API  
 
-Designed with performance, simplicity, and clean UI in mind.
+---
 
-🚀 Features
+## ⚙️ Getting Started
 
-✔ Browse latest & popular movies
-✔ Fast debounced search experience
-✔ Trending movies based on real user searches
-✔ Detailed movie view (overview, rating, release date)
-✔ Smooth tab-based navigation
-✔ Clean & responsive UI
+### 📲 Frontend Setup
 
-🧰 Tech Stack
-Frontend
-
-⚛️ Expo + React Native
-
-🧭 Expo Router
-
-🎨 NativeWind (Tailwind for RN)
-
-Backend
-
-🟢 Node.js + Express
-
-🍃 MongoDB Atlas
-
-🎥 TMDB API
-
-⚙️ Getting Started
-📲 Frontend Setup
+```bash
 npm install
 npx expo start
-
-
-Open on:
-
-📱 Expo Go (physical device)
-
-🤖 Android Emulator
-
-🍎 iOS Simulator
-
-🖥 Backend Setup
-npm install
-npm start
-
-
-Server runs on port 5001
-
-🔐 Environment Variables
-Frontend (.env)
-EXPO_PUBLIC_MOVIE_API_KEY=your_tmdb_api_key
-EXPO_PUBLIC_BACKEND_URL=http://localhost:5001
-
-Backend (.env)
-MONGO_URI=your_mongodb_connection_string
-PORT=5001
-
-🔌 API Routes
-Method	Endpoint	Description
-POST	/api/search/save	Save user search history
-GET	/api/search/trending	Get trending searches
-🛣 Roadmap
-
-⭐ Favorites screen
-
-👤 User profiles
-
-📦 Offline caching
-
-🔔 Personalized recommendations
-
-📄 License
-
-This project is licensed under the MIT License.
-Feel free to use, modify, and share.
-
-🙌 Credits
-
-🎬 TMDB API — movie data & images
-
-🚀 Expo Team — amazing developer experience
-
