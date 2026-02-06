@@ -20,16 +20,11 @@
 
 ## 📱 Preview
 
-<p align="center">
-  <img src="./assets/preview.gif" width="260" />
-  <img src="./assets/screen1.png" width="260" />
-  <img src="./assets/screen2.png" width="260" />
+<p align="center" flex = "center">
+  ![WhatsApp Image 2026-02-07 at 01 11 04](https://github.com/user-attachments/assets/7526b589-1c36-4d86-bf02-298e7c84f1e1)
+  ![WhatsApp Image 2026-02-07 at 01 11 05](https://github.com/user-attachments/assets/7cf528ba-698f-42a8-9003-c0472a34b184)
+
 </p>
-
-![WhatsApp Image 2026-02-07 at 01 11 05](https://github.com/user-attachments/assets/0787c41d-e88e-4ea5-b084-b8ae11020f6f)
-![WhatsApp Image 2026-02-07 at 01 11 05](https://github.com/user-attachments/assets/af8bc6c4-8e69-41d3-b281-97a12f180428)
-
-
 
 ## ✨ About
 
