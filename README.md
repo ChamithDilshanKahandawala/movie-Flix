@@ -120,10 +120,7 @@ PORT=5001
 
 ## 🔌 API Routes
 
----
-
 ## 🛣 Roadmap
-
 
 ⭐ Favorites screen
 
