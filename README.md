@@ -82,13 +82,13 @@ npm install
 npx expo start
 ```
 
-##### ▶ Run on:
+#### ▶ Run on:
 
 - 📱 **Expo Go** (real device)
 - 🤖 **Android Emulator**
 - 🍎 **iOS Simulator**
 
----
+----
 
 ### 🖥 Backend Setup
 
@@ -96,7 +96,7 @@ npx expo start
 npm install
 npm start
 ```
-##### 📡 Server runs on port 5001
+#### 📡 Server runs on port 5001
 
 ---
 
