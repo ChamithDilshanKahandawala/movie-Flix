@@ -120,6 +120,13 @@ PORT=5001
 
 ## 🔌 API Routes
 
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST   | `/api/search/save` | Save user search history |
+| GET    | `/api/search/trending` | Get trending movies |
+
+---
+
 ## 🛣 Roadmap
 
 ⭐ Favorites screen
