@@ -20,11 +20,18 @@
 
 ## 📱 Preview
 
-<p align="center" flex = "center">
-  ![WhatsApp Image 2026-02-07 at 01 11 04](https://github.com/user-attachments/assets/7526b589-1c36-4d86-bf02-298e7c84f1e1)
-  ![WhatsApp Image 2026-02-07 at 01 11 05](https://github.com/user-attachments/assets/7cf528ba-698f-42a8-9003-c0472a34b184)
-
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/7526b589-1c36-4d86-bf02-298e7c84f1e1" 
+    width="220"
+    style="margin-right: 12px;"
+  />
+  <img 
+    src="https://github.com/user-attachments/assets/7cf528ba-698f-42a8-9003-c0472a34b184" 
+    width="220"
+  />
 </p>
+
 
 ## ✨ About
 
