@@ -79,4 +79,19 @@ Built with performance, clean UI, and scalability in mind.
 
 ```bash
 npm install
-npx expo start
+npx expo start 
+
+### ▶ Run on:
+
+- 📱 **Expo Go** (real device)
+- 🤖 **Android Emulator**
+- 🍎 **iOS Simulator**
+
+---
+
+### 🖥 Backend Setup
+
+```bash
+npm install
+npm start
+
