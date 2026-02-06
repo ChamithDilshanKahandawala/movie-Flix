@@ -99,18 +99,18 @@ npm start
 ```
 ---
 
-### 📡 Server runs on port 5001
+#### 📡 Server runs on port 5001
 
-## 🔐 Environment Variables
+### 🔐 Environment Variables
 
-# Frontend (.env)
+#### Frontend (.env)
 
 ```env
 EXPO_PUBLIC_MOVIE_API_KEY=My_tmdb_api_key
 EXPO_PUBLIC_BACKEND_URL=http://localhost:5001
 ```
 
-# Backend (.env)
+#### Backend (.env)
 
 ```env
 MONGO_URI=my_mongodb_connection_string
@@ -119,7 +119,7 @@ PORT=5001
 
 ---
 
-### 🔌 API Routes
+## 🔌 API Routes
 
 ---
 
@@ -136,7 +136,7 @@ PORT=5001
 
 ---
 
-### 🙌 Credits
+## 🙌 Credits
 
 
 🎥 TMDB API — Movie data & images
