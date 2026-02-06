@@ -79,7 +79,9 @@ Built with performance, clean UI, and scalability in mind.
 
 ```bash
 npm install
-npx expo start 
+npx expo start
+```
+---
 
 ### ▶ Run on:
 
@@ -94,4 +96,51 @@ npx expo start
 ```bash
 npm install
 npm start
+```
+---
+
+###📡 Server runs on port 5001
+
+##🔐 Environment Variables
+
+#Frontend (.env)
+
+```bash
+EXPO_PUBLIC_MOVIE_API_KEY=My_tmdb_api_key
+EXPO_PUBLIC_BACKEND_URL=http://localhost:5001
+```
+
+#Backend (.env)
+
+```bash
+MONGO_URI=my_mongodb_connection_string
+PORT=5001
+```
+
+---
+
+###🔌 API Routes
+
+---
+
+###🛣 Roadmap
+
+
+⭐ Favorites screen
+
+👤 User profiles
+
+📦 Offline caching
+
+🤖 Smart recommendations
+
+---
+
+###🙌 Credits
+
+
+🎥 TMDB API — Movie data & images
+
+🚀 Expo — Amazing developer experience
+
 
